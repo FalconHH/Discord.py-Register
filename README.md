@@ -1,9 +1,10 @@
 # Discord.py-Register
-This command is a basic code that include :
 
-Registering new user's (Sending it with embeds)
+This command includes the following features:
 
-Also checking the user to see if they have member role role or not.
+* **Registering New Users:** Sends registration details with embeds.
+* **Role Verification:** Checks if the user has the member role.
 
-## Don't forget to replace "MOD_ID" in the 21st line and "ROLE_ID" in the 23rd line.
+## Important
 
+Don't forget to replace `MOD_ID` in line 21 and `ROLE_ID` in line 23 with your actual IDs.
